@@ -1,0 +1,7 @@
+{
+  "id": "INV-1001",
+  "type": "Invoice",
+  "amount": 2500,
+  "currency": "USD",
+  "due_date": "2025-06-10"
+}
