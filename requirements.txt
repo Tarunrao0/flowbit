@@ -1,0 +1,5 @@
+streamlit
+redis
+transformers
+email
+python-dotenv
